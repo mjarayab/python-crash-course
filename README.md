@@ -11,9 +11,8 @@ Ejercicios y proyectos del libro **Python Crash Course** de Eric Matthes
 - [x] Capítulo 2 — Variables and Simple Data Types
 - [x] Capítulo 3 — Introducing Lists
 - [x] Capítulo 4 — Working with Lists
-- [ ] Capítulo 5 — If Statements ← *en progreso (Using if Statements with 
-Lists)*
-- [ ] Capítulo 6 — Dictionaries
+- [x] Capítulo 5 — If Statements
+- [ ] Capítulo 6 — Dictionaries ← *en progreso (Looping Through a Dictionary)*
 - [ ] Capítulo 7 — User Input and while Loops
 - [ ] Capítulo 8 — Functions
 - [ ] Capítulo 9 — Classes
