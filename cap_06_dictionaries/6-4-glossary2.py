@@ -10,10 +10,13 @@ glossary = {
     'list': 'A collection of items stored in a specific order.',
     'dictionary': 'A collection of key-value pairs.',
     'loop': 'Repeats a block of code multiple times.',
-    'string': 'A sequence of characters or text.'
+    'string': 'A sequence of characters or text.',
+    'function': 'A block of reusable code that performs a specific task.',
+    'tuple': 'An immutable sequence of items that cannot be changed after creation.',
+    'boolean': 'A data type with only two values: True or False.',
+    'index': 'The position of an element in a list, starting at 0.',
+    'method': 'A function that belongs to an object or data type.',
 }
-print(f"variable:\n\t{glossary['variable']}\n")
-print(f"list:\n\t{glossary['list']}\n")
-print(f"dictionary:\n\t{glossary['dictionary']}\n")
-print(f"loop:\n\t{glossary['loop']}\n")
-print(f"string:\n\t{glossary['string']}\n")
+for word, meaning in glossary.items():
+    print (f"{word.title()}:")
+    print (f"\t{meaning}\n")
